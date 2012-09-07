@@ -76,6 +76,5 @@ PRODUCT_PACKAGES += \
     BIP \
     SDM \
     SecPhone \
-    Stk.apk \
     SyncMLSvc
 
