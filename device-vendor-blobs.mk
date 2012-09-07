@@ -76,7 +76,6 @@ PRODUCT_PACKAGES += \
     BIP \
     SDM \
     SecPhone \
-    Stk \
     SprintExtension.apk \
     SyncMLSvc
 
